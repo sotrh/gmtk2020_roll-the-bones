@@ -1,0 +1,79 @@
+{
+    "start_island": 0,
+    "end_island": 1,
+    "islands": [
+        {
+            "name": "Start Island",
+            "type": "StartIsland",
+            "color": [
+                1,
+                1,
+                1
+            ],
+            "chance": 0
+        },
+        {
+            "name": "End Island",
+            "type": "EndIsland",
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "Desert Island",
+            "type": "DesertIsland",
+            "color": [
+                1,
+                0.5,
+                1
+            ]
+        },
+        {
+            "name": "Port",
+            "type": "Port",
+            "color": [
+                1,
+                0.8,
+                0.8
+            ]
+        },
+        {
+            "name": "Fort",
+            "type": "Fort",
+            "color": [
+                0.8,
+                1,
+                1
+            ]
+        },
+        {
+            "name": "Wild Island",
+            "type": "WildIsland",
+            "color": [
+                0.2,
+                0,
+                1
+            ]
+        },
+        {
+            "name": "Volcano Island",
+            "type": "VolcanoIsland",
+            "color": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "Treasure Island",
+            "type": "TreasureIsland",
+            "color": [
+                1,
+                0,
+                1
+            ]
+        }
+    ]
+}
